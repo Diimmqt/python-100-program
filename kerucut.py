@@ -7,6 +7,6 @@ volume = 1/3 * 3.14 * r * r * t
 luas =  3.14 * r**2 + 3.14 * r * s
 keliling = 2 * 3.14 * r
 
-print ('volume = {volume}')
-print (' luas = {luas}')
-print ('keliling = {keliling}')
+print (f'volume = {volume}')
+print (f' luas = {luas}')
+print (f'keliling = {keliling}')
