@@ -1,5 +1,5 @@
 print ('='*30)
-print ('nilai')
+print ('program lari')
 print ('='*30)
 nama = input('masukan nama: ')
 interval=float(input('masukan waktu tempuh:'))
